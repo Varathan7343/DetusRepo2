@@ -14,9 +14,8 @@ This Java Spring Boot application provides an API endpoint to calculate net paya
 
 - Java 17
 - Spring Boot 2.6.x
-- Maven (or Gradle)
-- Hibernate/JPA for database interaction
-- H2 Database (for local testing)
+- Maven 
+- Hibernate & JPA for database interaction
 - JUnit 5 and Mockito for unit testing
 
 
