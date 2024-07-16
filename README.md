@@ -41,7 +41,7 @@ The application will start at http://localhost:8080.
     ```
   - Response:
     ```json
-    90.0
+    65.0
     ```
 
 ## Testing
